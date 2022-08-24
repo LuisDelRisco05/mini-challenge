@@ -1,0 +1,39 @@
+{
+  "listPeople": [
+    {
+      "name": "Pedro",
+      "age": 20,
+      "career": "Ingeniería",
+      "hobbie": "Futbol",
+      "id": 1
+    },
+    {
+      "name": "Rodrigo",
+      "age": 22,
+      "career": "Arquitectura",
+      "hobbie": "Bajo eléctrico",
+      "id": 2
+    },
+    {
+      "name": "Romina",
+      "age": 21,
+      "career": "Abogacía",
+      "hobbie": "Acrobacia",
+      "id": 3
+    },
+    {
+      "name": "Ana",
+      "age": 23,
+      "career": "Contadora",
+      "hobbie": "Astronomía",
+      "id": 4
+    },
+    {
+      "name": "luis felipe",
+      "age": "23",
+      "career": "dev",
+      "hobbie": "anime",
+      "id": 5
+    }
+  ]
+}
